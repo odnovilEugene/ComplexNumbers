@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Lab.dir/ComplexNumbers.cpp.o CMakeFiles/Lab.dir/complex_numbers.cpp.o CMakeFiles/Lab.dir/rational_numbers.cpp.o CMakeFiles/Lab.dir/Main.cpp.o  -o Lab 
